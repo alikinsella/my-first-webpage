@@ -1,6 +1,6 @@
 # _My First Webpage_
 
-#### _Exercise for Epicodus_, March 24, 2020_
+#### _Exercise for Epicodus, March 24, 2020_
 
 #### By _**Ali Kinsella**_
 
